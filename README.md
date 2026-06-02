@@ -33,11 +33,11 @@
 <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/unzila">
+<a href="https://www.linkedin.com/in/unzila-khanzada-109467369/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://unzila-dev.streamlit.app">
+<a href="https://melodious-marshmallow-c83ecf.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -147,6 +147,7 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## ❤️ Heart Disease Prediction
@@ -161,6 +162,9 @@
 ### 🛠 Tech
 
 `Python` `Scikit-learn` `Pandas` `GridSearchCV`
+
+🔗 Repository:
+https://github.com/unzilakhanzada/heart_disease_prediction
 
 </td>
 
@@ -179,11 +183,76 @@
 
 `Python` `Matplotlib` `Seaborn` `Scikit-learn`
 
+🔗 Repository:
+https://github.com/unzilakhanzada/adult-income-prediction
+
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 💳 Loan Approval Prediction
+
+### 🔥 Features
+
+* Loan Approval Classification
+* Data Cleaning
+* Feature Engineering
+* Model Evaluation
+
+### 🛠 Tech
+
+`Python` `Pandas` `Scikit-learn`
+
+🔗 Repository:
+https://github.com/unzilakhanzada/loan_approval-prediction
+
+</td>
+
+<td width="50%">
+
+## 📱 Attendance App
+
+### 🔥 Features
+
+* Attendance Tracking
+* User Friendly Interface
+* Mobile Application
+
+### 🛠 Tech
+
+`Flutter` `Dart`
+
+🔗 Repository:
+https://github.com/unzilakhanzada/Attendance_app
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
+---
+
+## 🌐 Social Media Scraper
+
+### Features
+
+- Public Profile Analysis
+- Instagram Data Extraction
+- API Integration
+- Data Processing
+
+### Technologies
+
+`Python` `FastAPI` `Web Scraping`
+
+🔗 Repository:
+https://github.com/unzilakhanzada/SocailScraper
 
 ---
 
@@ -259,9 +328,11 @@
 ---
 
 # 📜 Certifications
+*🏅 Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+Oracle University | August 25, 2025
 
 * 🏅 Google UX Design — Coursera
-* 🏅 Data Science — Oracle
+
 
 ---
 
