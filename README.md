@@ -4,8 +4,7 @@
 
 
 <!-- Top Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00DBDE,50:7F00FF,100:E100FF&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=UNZILA%20HAMID&fontSize=55&fontColor=FFFFFF&stroke=6A0DAD&animation=fadeIn&colorA=00DBDE&colorB=7F00FF"/>
 <!-- Main Hero Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=UNZILA%20HAMID&fontSize=55&fontColor=ffffff&stroke=ffffff&animation=fadeIn&colorA=0F2027&colorB=7F00FF"/>
 
