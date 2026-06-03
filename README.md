@@ -6,7 +6,6 @@
 <!-- Top Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=UNZILA%20HAMID&fontSize=55&fontColor=FFFFFF&stroke=6A0DAD&animation=fadeIn&colorA=00DBDE&colorB=7F00FF"/>
 <!-- Main Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=UNZILA%20HAMID&fontSize=55&fontColor=ffffff&stroke=ffffff&animation=fadeIn&colorA=0F2027&colorB=7F00FF"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Data+Scientist+%F0%9F%A7%A0;Machine+Learning+Engineer+%F0%9F%9A%80;Flutter+Developer+%F0%9F%93%B1;Building+Smart+Solutions+with+Data+%F0%9F%93%8A" />
